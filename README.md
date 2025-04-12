@@ -96,7 +96,7 @@ This project is licensed under the MIT License.
 
 ### 👨‍💻 Author
 
-**Your Name** – [GitHub](https://github.com/your-naveen05k)
+**Naveenkumar** – [GitHub](https://github.com/your-naveen05k)
 
 ```
 
