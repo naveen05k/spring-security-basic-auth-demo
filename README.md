@@ -1,15 +1,5 @@
 Here’s a suggestion for a clean and searchable GitHub repository name along with a well-written `README.md` file content for a **Spring Security basic project**:
 
----
-
-### ✅ **Repo Name Suggestion**  
-`spring-security-basic-auth-demo`
-
-This name is clear, searchable, and includes important keywords like `spring`, `security`, `basic`, and `auth`.
-
----
-
-### 📄 **README.md Content**
 
 ```markdown
 # Spring Security Basic Auth Demo
@@ -26,7 +16,7 @@ A simple Spring Boot project demonstrating **Basic Authentication** using **Spri
 
 ## 📦 Tech Stack
 
-- Java 17+
+- Java 21+
 - Spring Boot 3.x
 - Spring Security
 - Maven
